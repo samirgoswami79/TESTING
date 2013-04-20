@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+<name>Test</name>
+<author>Samir Goswami</author>
+<authorEmail>samir.150@gmail.com</authorEmail>
+<authorUrl>http://www.samirgoswami.com</authorUrl>
+<version>1.0.0</version>
+<description>This  sam Test Package</description>
+<files>
+	<filename>readme.txt</filename>
+	<foldername>application</foldername>
+	<foldername>assets</foldername>
+</files>
+</package>
