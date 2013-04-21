@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-<name>Test</name>
+<named>Test</named>
 <author>Samir Goswami</author>
 <authorEmail>samir.150@gmail.com</authorEmail>
 <authorUrl>http://www.samirgoswami.com</authorUrl>
