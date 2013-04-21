@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8">
 <install type="CIPACKAGES" version="1.5.0">
     <!-- Name of the Module -->
-        <name>SAMIR</name> 
+        <named>SAMIR</named> 
  
     <!-- Name of the Author -->
         <author>CIPACKAGES</author> 
