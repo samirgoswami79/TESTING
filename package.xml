@@ -2,6 +2,7 @@
 <package>
 <name>Test</name>
 <author>Samir Goswami</author>
+<title>TESTING xml</title>
 <authorEmail>samir.150@gmail.com</authorEmail>
 <authorUrl>http://www.samirgoswami.com</authorUrl>
 <version>1.0.0</version>
